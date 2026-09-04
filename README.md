@@ -8,22 +8,64 @@ A collection of three activities completed during the Prelim period covering cor
 
 ## 🗂️ Project Overview
 
-### How I Created and Set Up the GitHub Repository
+<table>
+  <tr>
+    <td width="220" align="center" valign="middle">
+      <br />
+      <!-- Profile Picture Placeholder -->
+      <img src="https://api.dicebear.com/7.x/bottts/svg?seed=Katrina&backgroundColor=b6e3f4" width="160" height="160" alt="Profile Avatar" style="border-radius: 50%;" />
+      <br /><br />
+      <b>KATRINA MAE E. DIGAL</b><br />
+      <sub><code>BSN 4F • CLASS OF 2026</code></sub>
+      <br /><br />
+    </td>
+    <td width="420" valign="top">
+      <br />
+      <h3>📋 Personal Profile</h3>
+      <ul>
+        <li><b>Full Name:</b> Katrina Mae E. Digal</li>
+        <li><b>Course:</b> Bachelor of Science in Nursing (BSN)</li>
+        <li><b>Section:</b> 4F</li>
+      </ul>
+      <hr />
+      <h3>✨ Quick Favorites</h3>
+      <ul>
+        <li>🍝 <b>Comfort Food:</b> Creamy Carbonara</li>
+        <li>🩵 <b>Signature Shade:</b> Baby Blue / Sky Blue (<code>#87CEEB</code>)</li>
+        <li>📽️ <b>Favorite Film:</b> <i>Pride and Prejudice</i> (2005)</li>
+      </ul>
+      <br />
+    </td>
+  </tr>
+</table>
 
-<!-- Explain how you created the repo — naming it, setting it to public/private, initializing with a README, etc. -->
+### How I Created and Set Up the GitHub Repository 🚀📁
 
-### How I Uploaded and Organized My Activities and Outputs
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Setting Up Repository" width="300" />
+</p>
 
-<!-- Describe how you structured the files (activity .md files, images, folders), how you committed and pushed them, and how you kept things organized -->
+1. **Repository Initialization:** Navigated to GitHub and created a new repository using a standardized academic naming convention (`GE4120-Digital-Portfolio` / `BSN4F-Portfolio-Digal`) to ensure easy identification for coursework evaluation.
+2. **Visibility Configuration:** Set the repository to **Public** so instructors, peers, and external evaluators could access and inspect the rendered documentation without requiring authentication tokens or invitation links.
+3. **Core Base Files:** Initialized the repository directly with a default `README.md` file to serve as the root dashboard, alongside an automatically generated `.gitignore` file to filter out unnecessary system metadata (e.g., `.DS_Store` or local cache files).
 
-### Making the Portfolio Accessible and Presentable
+---
 
-<!-- Explain how you formatted the README, used markdown, linked files, and ensured anyone visiting the repo could easily navigate it -->
+### How I Uploaded and Organized My Activities and Outputs 🗂️💻
 
-### Challenges Encountered and How I Addressed Them
+<p align="center">
+  <img src="https://media.giphy.com/media/MGx3MrBxXdV9KYae8i/giphy.gif" alt="Folder Structure & Commits" width="300" />
+</p>
 
-<!-- Share any difficulties (e.g., file uploads, Git errors, formatting issues) and how you resolved them -->
-
+* **Modular Directory Hierarchy:** Rather than dumping every file into the root level, assets were organized into dedicated, logical folders:
+  ```text
+  ├── README.md                   # Main portfolio landing page
+  ├── activities/                 # Individual write-ups (.md) per task
+  │   ├── activity-1.md
+  │   └── activity-2.md
+  └── assets/                     # High-resolution visual media
+      ├── images/                 # Posters, color swatches, infographics (.png, .jpg)
+      └── icons/                  # Badges and UI elements
 ---
 
 ## 📋 Activities Overview
