@@ -14,9 +14,10 @@ A collection of three activities completed during the Prelim period covering cor
       <br />
       <!-- Profile Picture Placeholder -->
       <p align="center">
+        
  <p align="center">
-  <img src="https://api.dicebear.com/9.x/cats/svg?seed=Katrina&backgroundColor=b6e3f4" alt="Cat Avatar" width="160" height="160" style="border-radius: 50%;" />
-</p>
+  ![Cat Avatar](https://api.dicebear.com/9.x/cats/svg?seed=Katrina&backgroundColor=b6e3f4)
+   
       <b>KATRINA MAE E. DIGAL</b><br />
       <sub><code>BSN 4F • CLASS OF 2026</code></sub>
       <br /><br />
