@@ -13,8 +13,9 @@ A collection of three activities completed during the Prelim period covering cor
     <td width="220" align="center" valign="middle">
       <br />
       <!-- Profile Picture Placeholder -->
-      <img src="https://api.dicebear.com/7.x/bottts/svg?seed=Katrina&backgroundColor=b6e3f4" width="160" height="160" alt="Profile Avatar" style="border-radius: 50%;" />
-      <br /><br />
+      <p align="center">
+  <img src="https://api.dicebear.com/7.x/bottts/svg?seed=Katrina&backgroundColor=b6e3f4" alt="Katrina Bot Avatar" width="160" height="160" style="border-radius: 50%;" />
+</p>
       <b>KATRINA MAE E. DIGAL</b><br />
       <sub><code>BSN 4F • CLASS OF 2026</code></sub>
       <br /><br />
@@ -42,7 +43,7 @@ A collection of three activities completed during the Prelim period covering cor
 ### How I Created and Set Up the GitHub Repository 🚀📁
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Setting Up Repository" width="300" />
+  <img src="https://media.giphy.com/media/llUIrcZbR7yuwoH8jk/giphy.gif" alt="Hayao Miyazaki Molehill sticker" width="480" />
 </p>
 
 1. **Repository Initialization:** Navigated to GitHub and created a new repository using a standardized academic naming convention (`GE4120-Digital-Portfolio` / `BSN4F-Portfolio-Digal`) to ensure easy identification for coursework evaluation.
