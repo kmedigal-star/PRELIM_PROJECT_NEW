@@ -12,20 +12,15 @@ A collection of three activities completed during the Prelim period covering cor
   <tr>
     <td width="220" align="center" valign="middle">
       <br />
-      <!-- Profile Picture Placeholder -->
-      <p align="center">
-        
- <p align="center">
-  <img src="https://robohash.org/Katrina.png?set=set4&size=160x160&bgset=bg1" alt="Cat Avatar" width="160" height="160" style="border-radius: 50%;" />
-</p>
-   
+      <img src="https://robohash.org/Katrina.png?set=set4&size=160x160&bgset=bg1" alt="Cat Avatar" width="160" height="160" style="border-radius: 50%; display: block; margin: 0 auto;" />
+      <br />
       <b>KATRINA MAE E. DIGAL</b><br />
       <sub><code>BSN 4F • CLASS OF 2026</code></sub>
       <br /><br />
     </td>
     <td width="420" valign="top">
       <br />
-      <h3>📋 Personal Profile</h3>
+      <h3 style="margin-top: 0;">📋 Personal Profile</h3>
       <ul>
         <li><b>Full Name:</b> Katrina Mae E. Digal</li>
         <li><b>Course:</b> Bachelor of Science in Nursing (BSN)</li>
