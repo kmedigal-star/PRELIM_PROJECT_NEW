@@ -6,11 +6,11 @@
 
 ## What I Created ☕✨
 
-<p align="center">
-  <img src="https://media.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" alt="Iced Coffee Vibes" width="300" />
-</p>
+## Output Preview
 
-I designed an event promotional poster for an on-campus community initiative: a free coffee pop-up organized under the **Ateneo de Davao University – School of Nursing**. 
+![Activity 1 Output](act1.png)
+
+I designed a simple and catchy promotional poster for an on-campus community initiative: a free coffee pop-up organized under the **Ateneo de Davao University – School of Nursing**. This initiative aims to make each student feel welcome on campus, make new friends, and enjoy good coffee.
 
 The deliverable is a mobile- and feed-optimized digital flyer announcing the event details:
 * **Event:** Free Coffee Pop-Up (*"First come, first served"*)
@@ -23,7 +23,7 @@ The deliverable is a mobile- and feed-optimized digital flyer announcing the eve
 ## Why I Came Up With the Concept 💡🧠
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Need Coffee" width="300" />
+  <img src="https://giphy.com/embed/KfYq6gFR5hOQ9nbCgO" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-coffee-drink-KfYq6gFR5hOQ9nbCgO">via GIPHY</a></p> />
 </p>
 
 * **The Student Reality:** Healthcare and collegiate academic loads are notoriously demanding. Coffee isn’t just a beverage; it’s an essential fuel line and a micro-break that grounds students during long duty shifts and study grinds.
@@ -35,7 +35,7 @@ The deliverable is a mobile- and feed-optimized digital flyer announcing the eve
 ## How I Developed the Final Output 🛠️🎨
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Creative Process" width="300" />
+  <img src="https://giphy.com/embed/OIpA11lYRhdvJ3kzUr" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/ghn-kaffee-bitte-wach-bleiben-OIpA11lYRhdvJ3kzUr">via GIPHY</a></p>/>
 </p>
 
 1. **Asset Selection & Background Isolation:** Sourced a high-resolution top-down perspective of an iced latte, floating coffee beans, and stacked caramelized sugar cubes. Stripped the background into pure white to give the organic elements maximum punch.
@@ -48,7 +48,7 @@ The deliverable is a mobile- and feed-optimized digital flyer announcing the eve
 ## Design Principles Applied 📐🎯
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Design Grid" width="300" />
+  <img src="https://giphy.com/embed/Vcwi7UMA5HyKkuzcHw" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/latte-iced-coffee-Vcwi7UMA5HyKkuzcHw">via GIPHY</a></p> />
 </p>
 
 * **Focal Point & Emphasis:** The massive iced coffee glass dominates the lower two-thirds of the canvas. The bold, black arched typography (*"Booth 7 – ARRUPE HALL"*) immediately captures the eye and tethers the exact physical location directly to the visual payoff.
@@ -57,6 +57,3 @@ The deliverable is a mobile- and feed-optimized digital flyer announcing the eve
 * **Proximity & Visual Chunking:** Secondary metadata (*"August 4, 2026 TUESDAY"* and *"First come, first served"*) is encapsulated into muted brown rounded chips, keeping logistical details tightly grouped so they never compete with the hero imagery.
 * **Repetition & Color Harmony:** A unified palette drawn directly from the product itself—espresso, cream, kraft taupe, and raw cane sugar—creates a cohesive, warm aesthetic that feels both professional and inviting.
 
-## Output Preview
-
-![Activity 1 Output](act1.png)
