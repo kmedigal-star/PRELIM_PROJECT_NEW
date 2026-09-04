@@ -23,7 +23,8 @@ The deliverable is a mobile- and feed-optimized digital flyer announcing the eve
 ## Why I Came Up With the Concept 💡🧠
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/KfYq6gFR5hOQ9nbCgO" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-coffee-drink-KfYq6gFR5hOQ9nbCgO">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/KfYq6gFR5hOQ9nbCgO/giphy.gif" alt="Cat drinking coffee" width="480" />
+</p>
 
 * **The Student Reality:** Healthcare and collegiate academic loads are notoriously demanding. Coffee isn’t just a beverage; it’s an essential fuel line and a micro-break that grounds students during long duty shifts and study grinds.
 * **Low Friction, High Appeal:** The core messaging—*"Free coffee. No catch. Just caffeine and good vibes."*—deliberately removes institutional bureaucracy. It speaks peer-to-peer: straightforward, refreshing, and welcoming.
