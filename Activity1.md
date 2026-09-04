@@ -6,8 +6,6 @@
 
 ## What I Created ☕✨
 
-## Output Preview
-
 ![Activity 1 Output](act1.png)
 
 I designed a simple and catchy promotional poster for an on-campus community initiative: a free coffee pop-up organized under the **Ateneo de Davao University – School of Nursing**. This initiative aims to make each student feel welcome on campus, make new friends, and enjoy good coffee.
@@ -35,7 +33,7 @@ The deliverable is a mobile- and feed-optimized digital flyer announcing the eve
 ## How I Developed the Final Output 🛠️🎨
 
 <p align="center">
-  <img src="https://giphy.com/embed/OIpA11lYRhdvJ3kzUr" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/ghn-kaffee-bitte-wach-bleiben-OIpA11lYRhdvJ3kzUr">via GIPHY</a></p>/>
+  <img src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif" alt="90s pixel art" width="480" />
 </p>
 
 1. **Asset Selection & Background Isolation:** Sourced a high-resolution top-down perspective of an iced latte, floating coffee beans, and stacked caramelized sugar cubes. Stripped the background into pure white to give the organic elements maximum punch.
@@ -48,7 +46,7 @@ The deliverable is a mobile- and feed-optimized digital flyer announcing the eve
 ## Design Principles Applied 📐🎯
 
 <p align="center">
-  <img src="https://giphy.com/embed/Vcwi7UMA5HyKkuzcHw" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/latte-iced-coffee-Vcwi7UMA5HyKkuzcHw">via GIPHY</a></p> />
+  <img src="https://media.giphy.com/media/Vcwi7UMA5HyKkuzcHw/giphy.gif" alt="Iced coffee sticker" width="480" />
 </p>
 
 * **Focal Point & Emphasis:** The massive iced coffee glass dominates the lower two-thirds of the canvas. The bold, black arched typography (*"Booth 7 – ARRUPE HALL"*) immediately captures the eye and tethers the exact physical location directly to the visual payoff.
